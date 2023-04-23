@@ -3,7 +3,7 @@ Hey Floks I'm Devansh from this side
 
 -> Here's the Game of Snack-Water-Gun , which we used to play in our childhood 
 
--> I was learning python from  one man army ("CODE WITHE HARRY") And this is the part of my learing 
+-> I was learning python from  one man army ("CODE WITH HARRY") And this is the part of my learing 
 so I thought let's upload it with comments on github , so that others can easily understand it
 
 ***Hope You''ll like it and enjoy it****
