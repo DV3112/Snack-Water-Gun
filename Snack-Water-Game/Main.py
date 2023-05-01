@@ -32,7 +32,7 @@ def gameWin(comp, you):
             return True
 
 # Taking the input from computer by random function
-print("Computer Turn: snack(s)  Water(s) Or Gun(g)?")
+print("Computer Turn: snack(s)  Water(w) Or Gun(g)?")
 randNO = random.randint(1, 3)
 
 # storing the value in varriable
