@@ -44,7 +44,7 @@ elif randNO == 3:
     comp = 'g'
 
 # taking the input from user
-you = input("your Turn: snack(s)  Water(s) Or Gun(g)?")
+you = input("your Turn: snack(s)  Water(w) Or Gun(g)?")
 
 a = gameWin(comp, you)  # Run the Function
 
